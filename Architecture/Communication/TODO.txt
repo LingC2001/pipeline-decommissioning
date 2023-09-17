@@ -1,0 +1,32 @@
+
+TODO:
+
+- Retrieve and store live data on simulation's status
+- Setup a databse based on simulated sensors
+- Read commands/coords from DB and act accordingly
+- Store Movements in a DB
+- Final communication tests with Raspberry Pi
+- Unit-testing
+- Make a simple panel
+- Add compression method to the communication channel
+
+In Progress:
+
+- Refactor communication code to be object-oriented
+
+Done:
+
+- Establish communication between 2 computers through IP network
+- Get the simulations running on your device
+- Add TCP/UDP capability to the client/server code
+- Store recieved commands/coords in a database
+- Simulate IR sensor data
+- Enbale sending images/matrices through the channel
+
+On Hold:
+
+- Enable multiple connections with the server
+    - Enable connections on multiple ports
+    - Test on sensor + robot data
+    - Refactor & document code
+

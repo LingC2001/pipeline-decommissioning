@@ -1,0 +1,6 @@
+names:
+- pipe
+- section
+nc: 2
+train: pipe_detection-2/train/images
+val: pipe_detection-2/valid/images

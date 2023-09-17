@@ -1,0 +1,35 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+# Images/files
+*.npz
+*.pt
+*.pth
+videos/pipe_OD_demo.mp4
+videos/real_scan_1.mp4
+*.jpeg
+
+# folder
+Models/
+pipe_workability/Models/
+archived_experiments/semantic_segmentation/Models/
+__pycache__/
+
+# Mac
+*.DS_Store
