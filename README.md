@@ -9,11 +9,13 @@ This repo contains work done performed together with Monash Software and Civil E
     - Determine suitability in undergoing separation procedures
 
 2. Image Data Interpretation for Process Optimisation
-    - Derive important information from pipe images
+    - Derive important information from pipe images, e.g. dimensions
+    - Determine pipe model and type based on layer material and thickness
     - Determine important parameters of the separation process
 
 3. Information Translation for Automation Systems
     - Design interface to relay optimised parameters to the autonomous separation system
+    - Implement data transfer protocol
   
 4. Integration with Kuka robotic arm
    - Perform cutting/proof of concept with robotic arm path
@@ -24,6 +26,12 @@ This repo contains work done performed together with Monash Software and Civil E
 2. identify the pipe's width and length - Thresholding & Canny Edge Detection
 3. detect, identify and segment the different layers of pipes - Semantic Segmentation **semantic_segmentation**
 4. simulate the whole process by using RoboDK **robotic_sumulation**
+
+## Demo Images
+![Damage](https://i.imgur.com/aQvIeb0.jpeg)
+![Dimensions](https://i.imgur.com/l05sMfb.jpeg)
+![Segmentation](https://i.imgur.com/9ugJ3PI.jpeg)
+![Robot](https://i.imgur.com/k4NCDWh.jpeg)
 
 ## How to set up
 1. Clone the repo from [GitHub](https://github.com/LingC2001/pipeline-decommissioning).
