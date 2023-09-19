@@ -1,7 +1,7 @@
-# PIPE-RECOGNISATION
+# PIPELINE-DECOMMISIONING
 
 ## The purpose of the project
-This repo is designed for Monash Civil Engineering team to
+This repo contains work done performed together with Monash Software and Civil Engineering team to:
 
 1. Digitalisation of Pipe Images to Determine Workability
     - Detect damage and deformation from pipe images
@@ -13,6 +13,9 @@ This repo is designed for Monash Civil Engineering team to
 
 3. Information Translation for Automation Systems
     - Design interface to relay optimised parameters to the autonomous separation system
+  
+4. Integration with Kuka robotic arm
+   - Perform cutting/proof of concept with robotic arm path
 
 ## General approach
 1. check pipe intergrity/damage **pipe_workability** - ResNet50 Pre-trained Model
@@ -22,7 +25,7 @@ This repo is designed for Monash Civil Engineering team to
 4. simulate the whole process by using RoboDK **robotic_sumulation**
 
 ## How to set up
-1. Clone the repo from [GitHub](https://github.com/zijinchen-0104/pipe-recognisation).
+1. Clone the repo from [GitHub](https://github.com/LingC2001/pipeline-decommissioning).
 2. Follow [this](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) link to create a virtual environment.
 
 ## Contact people
