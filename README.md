@@ -29,9 +29,11 @@ This repo contains work done performed together with Monash Software and Civil E
 
 ## Demo Images
 ![Damage](/images/damage.png)
-![Dimensions](https://i.imgur.com/l05sMfb.jpeg)
-![Segmentation](https://i.imgur.com/9ugJ3PI.jpeg)
-![Robot](https://i.imgur.com/k4NCDWh.jpeg)
+![Dimensions1](/images/dimensions1.png)
+![Dimensions2](/images/dimensions2.png)
+![Segmentation](/images/segmentation.png)
+![Robot](/images/robot_demo.png)
+![Laser](/images/laser_scanner.png)
 
 ## How to set up
 1. Clone the repo from [GitHub](https://github.com/LingC2001/pipeline-decommissioning).
