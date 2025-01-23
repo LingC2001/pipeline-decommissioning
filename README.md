@@ -28,7 +28,7 @@ This repo contains work done performed together with Monash Software and Civil E
 4. simulate the whole process by using RoboDK **robotic_sumulation**
 
 ## Demo Images
-![Damage](https://i.imgur.com/aQvIeb0.jpeg)
+![Damage](/images/damage.png)
 ![Dimensions](https://i.imgur.com/l05sMfb.jpeg)
 ![Segmentation](https://i.imgur.com/9ugJ3PI.jpeg)
 ![Robot](https://i.imgur.com/k4NCDWh.jpeg)
